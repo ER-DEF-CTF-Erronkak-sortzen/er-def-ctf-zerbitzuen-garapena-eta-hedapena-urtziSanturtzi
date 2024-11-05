@@ -1,6 +1,6 @@
-sarrera
-liburutegia
-bideadago
-eseseatxe
+#sarrera
+#liburutegia
+#bideadago
+#eseseatxe
 pasapasa
-saltoka
+#saltoka
